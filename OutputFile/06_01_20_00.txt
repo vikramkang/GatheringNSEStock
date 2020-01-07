@@ -1,0 +1,976 @@
+*********************************************
+Symbol ACC
+Underlying Index 1450.1
+Nearest Strike price value 1460.0
+Calls LTP value 39.05
+Put LTP value 39.75
+Sum of Calls and Put values 78.8
+**********************************************
+*********************************************
+Symbol ADANIENT
+Underlying Index 202.35
+Nearest Strike price value 200.0
+Calls LTP value 10.65
+Put LTP value 8.25
+Sum of Calls and Put values 18.9
+**********************************************
+*********************************************
+Symbol ADANIPORTS
+Underlying Index 385.0
+Nearest Strike price value 385.0
+Calls LTP value 12.95
+Put LTP value 12.0
+Sum of Calls and Put values 24.95
+**********************************************
+*********************************************
+Symbol ADANIPOWER
+Underlying Index 61.75
+Nearest Strike price value 62.0
+Calls LTP value 2.5
+Put LTP value 3.6
+Sum of Calls and Put values 6.1
+**********************************************
+*********************************************
+Symbol AMARAJABAT
+Underlying Index 717.2
+Nearest Strike price value 720.0
+Calls LTP value 19.0
+Put LTP value 25.1
+Sum of Calls and Put values 44.1
+**********************************************
+*********************************************
+Symbol AMBUJACEM
+Underlying Index 200.25
+Nearest Strike price value 200.0
+Calls LTP value 5.85
+Put LTP value 4.7
+Sum of Calls and Put values 10.549999
+**********************************************
+*********************************************
+Symbol APOLLOHOSP
+Underlying Index 1469.3
+Nearest Strike price value 1460.0
+Calls LTP value 50.3
+Put LTP value 33.5
+Sum of Calls and Put values 83.8
+**********************************************
+*********************************************
+Symbol APOLLOTYRE
+Underlying Index 163.55
+Nearest Strike price value 165.0
+Calls LTP value 4.4
+Put LTP value 7.05
+Sum of Calls and Put values 11.450001
+**********************************************
+*********************************************
+Symbol ASHOKLEY
+Underlying Index 81.1
+Nearest Strike price value 80.0
+Calls LTP value 3.8
+Put LTP value 2.5
+Sum of Calls and Put values 6.3
+**********************************************
+*********************************************
+Symbol ASIANPAINT
+Underlying Index 1715.6
+Nearest Strike price value 1720.0
+Calls LTP value 47.0
+Put LTP value 42.6
+Sum of Calls and Put values 89.6
+**********************************************
+*********************************************
+Symbol AUROPHARMA
+Underlying Index 452.8
+Nearest Strike price value 450.0
+Calls LTP value 20.6
+Put LTP value 17.8
+Sum of Calls and Put values 38.4
+**********************************************
+*********************************************
+Symbol AXISBANK
+Underlying Index 732.65
+Nearest Strike price value 730.0
+Calls LTP value 24.9
+Put LTP value 18.5
+Sum of Calls and Put values 43.4
+**********************************************
+*********************************************
+Symbol BAJAJ-AUTO
+Underlying Index 3043.05
+Nearest Strike price value 3050.0
+Calls LTP value 84.25
+Put LTP value 74.0
+Sum of Calls and Put values 158.25
+**********************************************
+*********************************************
+Symbol BAJAJFINSV
+Underlying Index 9236.75
+Nearest Strike price value 9200.0
+Calls LTP value 249.95
+Put LTP value 175.6
+Sum of Calls and Put values 425.55
+**********************************************
+*********************************************
+Symbol BAJFINANCE
+Underlying Index 4153.8
+Nearest Strike price value 4200.0
+Calls LTP value 97.85
+Put LTP value 119.15
+Sum of Calls and Put values 217.0
+**********************************************
+*********************************************
+Symbol BALKRISIND
+Underlying Index 964.8
+Nearest Strike price value 960.0
+Calls LTP value 36.25
+Put LTP value 25.6
+Sum of Calls and Put values 61.85
+**********************************************
+*********************************************
+Symbol BANKBARODA
+Underlying Index 96.95
+Nearest Strike price value 97.5
+Calls LTP value 3.95
+Put LTP value 4.25
+Sum of Calls and Put values 8.2
+**********************************************
+*********************************************
+Symbol BANKNIFTY
+Underlying Index 31544.75
+Nearest Strike price value 31500.0
+Calls LTP value 305.75
+Put LTP value 266.35
+Sum of Calls and Put values 572.1
+**********************************************
+*********************************************
+Symbol BATAINDIA
+Underlying Index 1718.65
+Nearest Strike price value 1720.0
+Calls LTP value 46.05
+Put LTP value 36.45
+Sum of Calls and Put values 82.5
+**********************************************
+*********************************************
+Symbol BEL
+Underlying Index 97.75
+Nearest Strike price value 97.5
+Calls LTP value 4.2
+Put LTP value 3.65
+Sum of Calls and Put values 7.85
+**********************************************
+*********************************************
+Symbol BERGEPAINT
+Underlying Index 499.85
+Nearest Strike price value 500.0
+Calls LTP value 11.0
+Put LTP value 13.75
+Sum of Calls and Put values 24.75
+**********************************************
+*********************************************
+Symbol BHARTIARTL
+Underlying Index 449.45
+Nearest Strike price value 450.0
+Calls LTP value 15.4
+Put LTP value 13.75
+Sum of Calls and Put values 29.15
+**********************************************
+*********************************************
+Symbol BHEL
+Underlying Index 43.35
+Nearest Strike price value 43.0
+Calls LTP value 2.2
+Put LTP value 1.7
+Sum of Calls and Put values 3.9
+**********************************************
+*********************************************
+Symbol BIOCON
+Underlying Index 296.05
+Nearest Strike price value 295.0
+Calls LTP value 10.15
+Put LTP value 11.3
+Sum of Calls and Put values 21.45
+**********************************************
+*********************************************
+Symbol BPCL
+Underlying Index 474.9
+Nearest Strike price value 470.0
+Calls LTP value 19.2
+Put LTP value 15.85
+Sum of Calls and Put values 35.050003
+**********************************************
+*********************************************
+Symbol BRITANNIA
+Underlying Index 3009.2
+Nearest Strike price value 3000.0
+Calls LTP value 74.0
+Put LTP value 58.45
+Sum of Calls and Put values 132.45
+**********************************************
+*********************************************
+Symbol CANBK
+Underlying Index 211.65
+Nearest Strike price value 210.0
+Calls LTP value 11.0
+Put LTP value 9.15
+Sum of Calls and Put values 20.15
+**********************************************
+*********************************************
+Symbol CENTURYTEX
+Underlying Index 471.1
+Nearest Strike price value 480.0
+Calls LTP value 16.1
+Put LTP value 24.3
+Sum of Calls and Put values 40.4
+**********************************************
+*********************************************
+Symbol CIPLA
+Underlying Index 463.3
+Nearest Strike price value 460.0
+Calls LTP value 17.0
+Put LTP value 10.4
+Sum of Calls and Put values 27.4
+**********************************************
+*********************************************
+Symbol COALINDIA
+Underlying Index 204.1
+Nearest Strike price value 205.0
+Calls LTP value 4.2
+Put LTP value 8.9
+Sum of Calls and Put values 13.099999
+**********************************************
+*********************************************
+Symbol COLPAL
+Underlying Index 1438.5
+Nearest Strike price value 1440.0
+Calls LTP value 31.75
+Put LTP value 30.85
+Sum of Calls and Put values 62.6
+**********************************************
+*********************************************
+Symbol CONCOR
+Underlying Index 566.2
+Nearest Strike price value 570.0
+Calls LTP value 12.8
+Put LTP value 18.65
+Sum of Calls and Put values 31.45
+**********************************************
+*********************************************
+Symbol CUMMINSIND
+Underlying Index 578.0
+Nearest Strike price value 580.0
+Calls LTP value 18.3
+Put LTP value 24.45
+Sum of Calls and Put values 42.75
+**********************************************
+*********************************************
+Symbol DABUR
+Underlying Index 454.25
+Nearest Strike price value 455.0
+Calls LTP value 10.75
+Put LTP value 9.9
+Sum of Calls and Put values 20.65
+**********************************************
+*********************************************
+Symbol DISHTV
+Underlying Index 12.35
+Nearest Strike price value 12.0
+Calls LTP value 1.5
+Put LTP value 1.15
+Sum of Calls and Put values 2.65
+**********************************************
+*********************************************
+Symbol DLF
+Underlying Index 223.8
+Nearest Strike price value 225.0
+Calls LTP value 8.95
+Put LTP value 9.75
+Sum of Calls and Put values 18.7
+**********************************************
+*********************************************
+Symbol DRREDDY
+Underlying Index 2869.45
+Nearest Strike price value 2850.0
+Calls LTP value 102.25
+Put LTP value 68.0
+Sum of Calls and Put values 170.25
+**********************************************
+*********************************************
+Symbol EICHERMOT
+Underlying Index 20972.25
+Nearest Strike price value 21000.0
+Calls LTP value 769.1
+Put LTP value 643.65
+Sum of Calls and Put values 1412.75
+**********************************************
+*********************************************
+Symbol ESCORTS
+Underlying Index 610.3
+Nearest Strike price value 620.0
+Calls LTP value 16.5
+Put LTP value 26.0
+Sum of Calls and Put values 42.5
+**********************************************
+*********************************************
+Symbol FEDERALBNK
+Underlying Index 88.8
+Nearest Strike price value 89.0
+Calls LTP value 3.45
+Put LTP value 3.25
+Sum of Calls and Put values 6.7
+**********************************************
+*********************************************
+Symbol GAIL
+Underlying Index 124.4
+Nearest Strike price value 125.0
+Calls LTP value 3.7
+Put LTP value 4.55
+Sum of Calls and Put values 8.25
+**********************************************
+*********************************************
+Symbol GLENMARK
+Underlying Index 344.85
+Nearest Strike price value 340.0
+Calls LTP value 17.3
+Put LTP value 11.85
+Sum of Calls and Put values 29.15
+**********************************************
+*********************************************
+Symbol GMRINFRA
+Underlying Index 22.2
+Nearest Strike price value 22.0
+Calls LTP value 1.25
+Put LTP value 0.9
+Sum of Calls and Put values 2.15
+**********************************************
+*********************************************
+Symbol GRASIM
+Underlying Index 744.4
+Nearest Strike price value 740.0
+Calls LTP value 23.25
+Put LTP value 17.55
+Sum of Calls and Put values 40.8
+**********************************************
+*********************************************
+Symbol HAVELLS
+Underlying Index 652.6
+Nearest Strike price value 650.0
+Calls LTP value 23.05
+Put LTP value 17.0
+Sum of Calls and Put values 40.05
+**********************************************
+*********************************************
+Symbol HCLTECH
+Underlying Index 583.05
+Nearest Strike price value 580.0
+Calls LTP value 20.85
+Put LTP value 14.5
+Sum of Calls and Put values 35.35
+**********************************************
+*********************************************
+Symbol HDFC
+Underlying Index 2405.45
+Nearest Strike price value 2400.0
+Calls LTP value 65.95
+Put LTP value 41.8
+Sum of Calls and Put values 107.75
+**********************************************
+*********************************************
+Symbol HDFCBANK
+Underlying Index 1250.45
+Nearest Strike price value 1260.0
+Calls LTP value 26.8
+Put LTP value 32.8
+Sum of Calls and Put values 59.6
+**********************************************
+*********************************************
+Symbol HEROMOTOCO
+Underlying Index 2380.65
+Nearest Strike price value 2400.0
+Calls LTP value 64.0
+Put LTP value 71.4
+Sum of Calls and Put values 135.4
+**********************************************
+*********************************************
+Symbol HINDALCO
+Underlying Index 212.25
+Nearest Strike price value 210.0
+Calls LTP value 9.0
+Put LTP value 5.4
+Sum of Calls and Put values 14.4
+**********************************************
+*********************************************
+Symbol HINDPETRO
+Underlying Index 253.2
+Nearest Strike price value 255.0
+Calls LTP value 9.3
+Put LTP value 10.35
+Sum of Calls and Put values 19.650002
+**********************************************
+*********************************************
+Symbol HINDUNILVR
+Underlying Index 1918.4
+Nearest Strike price value 1920.0
+Calls LTP value 52.25
+Put LTP value 39.4
+Sum of Calls and Put values 91.65
+**********************************************
+*********************************************
+Symbol IBULHSGFIN
+Underlying Index 319.8
+Nearest Strike price value 320.0
+Calls LTP value 21.25
+Put LTP value 24.75
+Sum of Calls and Put values 46.0
+**********************************************
+*********************************************
+Symbol ICICIBANK
+Underlying Index 529.45
+Nearest Strike price value 530.0
+Calls LTP value 16.4
+Put LTP value 13.05
+Sum of Calls and Put values 29.45
+**********************************************
+*********************************************
+Symbol ICICIPRULI
+Underlying Index 478.25
+Nearest Strike price value 480.0
+Calls LTP value 14.4
+Put LTP value 15.1
+Sum of Calls and Put values 29.5
+**********************************************
+*********************************************
+Symbol IDEA
+Underlying Index 6.05
+Nearest Strike price value 6.0
+Calls LTP value 0.65
+Put LTP value 0.55
+Sum of Calls and Put values 1.2
+**********************************************
+*********************************************
+Symbol IDFCFIRSTB
+Underlying Index 44.6
+Nearest Strike price value 45.0
+Calls LTP value 1.7
+Put LTP value 1.75
+Sum of Calls and Put values 3.45
+**********************************************
+*********************************************
+Symbol IGL
+Underlying Index 413.8
+Nearest Strike price value 415.0
+Calls LTP value 11.05
+Put LTP value 12.5
+Sum of Calls and Put values 23.55
+**********************************************
+*********************************************
+Symbol INDIGO
+Underlying Index 1338.0
+Nearest Strike price value 1340.0
+Calls LTP value 57.0
+Put LTP value 60.4
+Sum of Calls and Put values 117.4
+**********************************************
+*********************************************
+Symbol INDUSINDBK
+Underlying Index 1502.55
+Nearest Strike price value 1500.0
+Calls LTP value 60.3
+Put LTP value 51.5
+Sum of Calls and Put values 111.8
+**********************************************
+*********************************************
+Symbol INFRATEL
+Underlying Index 245.55
+Nearest Strike price value 245.0
+Calls LTP value 9.85
+Put LTP value 11.95
+Sum of Calls and Put values 21.8
+**********************************************
+*********************************************
+Symbol INFY
+Underlying Index 743.95
+Nearest Strike price value 740.0
+Calls LTP value 25.55
+Put LTP value 20.0
+Sum of Calls and Put values 45.55
+**********************************************
+*********************************************
+Symbol IOC
+Underlying Index 125.2
+Nearest Strike price value 125.0
+Calls LTP value 3.6
+Put LTP value 4.75
+Sum of Calls and Put values 8.35
+**********************************************
+*********************************************
+Symbol ITC
+Underlying Index 236.5
+Nearest Strike price value 237.5
+Calls LTP value 5.35
+Put LTP value 5.4
+Sum of Calls and Put values 10.75
+**********************************************
+*********************************************
+Symbol JINDALSTEL
+Underlying Index 169.35
+Nearest Strike price value 170.0
+Calls LTP value 9.05
+Put LTP value 8.5
+Sum of Calls and Put values 17.55
+**********************************************
+*********************************************
+Symbol JSWSTEEL
+Underlying Index 266.9
+Nearest Strike price value 265.0
+Calls LTP value 11.35
+Put LTP value 8.55
+Sum of Calls and Put values 19.900002
+**********************************************
+*********************************************
+Symbol JUBLFOOD
+Underlying Index 1686.8
+Nearest Strike price value 1680.0
+Calls LTP value 53.25
+Put LTP value 48.75
+Sum of Calls and Put values 102.0
+**********************************************
+*********************************************
+Symbol JUSTDIAL
+Underlying Index 548.5
+Nearest Strike price value 540.0
+Calls LTP value 24.45
+Put LTP value 17.8
+Sum of Calls and Put values 42.25
+**********************************************
+*********************************************
+Symbol KOTAKBANK
+Underlying Index 1647.45
+Nearest Strike price value 1640.0
+Calls LTP value 50.0
+Put LTP value 37.4
+Sum of Calls and Put values 87.4
+**********************************************
+*********************************************
+Symbol LICHSGFIN
+Underlying Index 426.2
+Nearest Strike price value 430.0
+Calls LTP value 14.95
+Put LTP value 18.2
+Sum of Calls and Put values 33.15
+**********************************************
+*********************************************
+Symbol LT
+Underlying Index 1324.45
+Nearest Strike price value 1320.0
+Calls LTP value 38.05
+Put LTP value 29.1
+Sum of Calls and Put values 67.15
+**********************************************
+*********************************************
+Symbol LUPIN
+Underlying Index 769.3
+Nearest Strike price value 770.0
+Calls LTP value 23.1
+Put LTP value 20.75
+Sum of Calls and Put values 43.85
+**********************************************
+*********************************************
+Symbol MANAPPURAM
+Underlying Index 174.6
+Nearest Strike price value 175.0
+Calls LTP value 6.7
+Put LTP value 5.9
+Sum of Calls and Put values 12.6
+**********************************************
+*********************************************
+Symbol MARICO
+Underlying Index 332.3
+Nearest Strike price value 330.0
+Calls LTP value 10.7
+Put LTP value 5.95
+Sum of Calls and Put values 16.65
+**********************************************
+*********************************************
+Symbol MARUTI
+Underlying Index 7103.3
+Nearest Strike price value 7100.0
+Calls LTP value 207.25
+Put LTP value 162.0
+Sum of Calls and Put values 369.25
+**********************************************
+*********************************************
+Symbol MFSL
+Underlying Index 561.65
+Nearest Strike price value 560.0
+Calls LTP value 24.0
+Put LTP value 19.35
+Sum of Calls and Put values 43.35
+**********************************************
+*********************************************
+Symbol MINDTREE
+Underlying Index 829.7
+Nearest Strike price value 830.0
+Calls LTP value 27.8
+Put LTP value 37.9
+Sum of Calls and Put values 65.7
+**********************************************
+*********************************************
+Symbol MOTHERSUMI
+Underlying Index 144.3
+Nearest Strike price value 145.0
+Calls LTP value 6.0
+Put LTP value 5.4
+Sum of Calls and Put values 11.4
+**********************************************
+*********************************************
+Symbol MUTHOOTFIN
+Underlying Index 769.3
+Nearest Strike price value 770.0
+Calls LTP value 23.35
+Put LTP value 20.45
+Sum of Calls and Put values 43.800003
+**********************************************
+*********************************************
+Symbol NATIONALUM
+Underlying Index 45.1
+Nearest Strike price value 45.0
+Calls LTP value 1.85
+Put LTP value 1.4
+Sum of Calls and Put values 3.25
+**********************************************
+*********************************************
+Symbol NBCC
+Underlying Index 35.25
+Nearest Strike price value 35.0
+Calls LTP value 1.8
+Put LTP value 1.65
+Sum of Calls and Put values 3.4499998
+**********************************************
+*********************************************
+Symbol NCC
+Underlying Index 56.4
+Nearest Strike price value 56.0
+Calls LTP value 3.05
+Put LTP value 2.35
+Sum of Calls and Put values 5.3999996
+**********************************************
+*********************************************
+Symbol NIFTY
+Underlying Index 12072.45
+Nearest Strike price value 12050.0
+Calls LTP value 94.9
+Put LTP value 58.55
+Sum of Calls and Put values 153.45
+**********************************************
+*********************************************
+Symbol NIITTECH
+Underlying Index 1654.4
+Nearest Strike price value 1660.0
+Calls LTP value 36.5
+Put LTP value 50.15
+Sum of Calls and Put values 86.65
+**********************************************
+*********************************************
+Symbol NMDC
+Underlying Index 128.9
+Nearest Strike price value 130.0
+Calls LTP value 4.5
+Put LTP value 4.8
+Sum of Calls and Put values 9.3
+**********************************************
+*********************************************
+Symbol NTPC
+Underlying Index 117.1
+Nearest Strike price value 117.0
+Calls LTP value 2.5
+Put LTP value 2.8
+Sum of Calls and Put values 5.3
+**********************************************
+*********************************************
+Symbol ONGC
+Underlying Index 126.8
+Nearest Strike price value 127.5
+Calls LTP value 4.35
+Put LTP value 5.0
+Sum of Calls and Put values 9.35
+**********************************************
+*********************************************
+Symbol PEL
+Underlying Index 1483.75
+Nearest Strike price value 1500.0
+Calls LTP value 60.5
+Put LTP value 77.45
+Sum of Calls and Put values 137.95
+**********************************************
+*********************************************
+Symbol PETRONET
+Underlying Index 266.9
+Nearest Strike price value 265.0
+Calls LTP value 8.85
+Put LTP value 5.1
+Sum of Calls and Put values 13.950001
+**********************************************
+*********************************************
+Symbol PFC
+Underlying Index 114.3
+Nearest Strike price value 115.0
+Calls LTP value 3.9
+Put LTP value 3.65
+Sum of Calls and Put values 7.55
+**********************************************
+*********************************************
+Symbol PIDILITIND
+Underlying Index 1393.0
+Nearest Strike price value 1400.0
+Calls LTP value 31.1
+Put LTP value 36.0
+Sum of Calls and Put values 67.1
+**********************************************
+*********************************************
+Symbol PNB
+Underlying Index 62.25
+Nearest Strike price value 62.0
+Calls LTP value 2.8
+Put LTP value 2.4
+Sum of Calls and Put values 5.2
+**********************************************
+*********************************************
+Symbol POWERGRID
+Underlying Index 190.05
+Nearest Strike price value 190.0
+Calls LTP value 4.3
+Put LTP value 4.4
+Sum of Calls and Put values 8.700001
+**********************************************
+*********************************************
+Symbol PVR
+Underlying Index 1868.25
+Nearest Strike price value 1850.0
+Calls LTP value 65.05
+Put LTP value 47.7
+Sum of Calls and Put values 112.75
+**********************************************
+*********************************************
+Symbol RBLBANK
+Underlying Index 347.1
+Nearest Strike price value 340.0
+Calls LTP value 22.4
+Put LTP value 13.8
+Sum of Calls and Put values 36.2
+**********************************************
+*********************************************
+Symbol RECLTD
+Underlying Index 140.1
+Nearest Strike price value 140.0
+Calls LTP value 5.45
+Put LTP value 3.55
+Sum of Calls and Put values 9.0
+**********************************************
+*********************************************
+Symbol RELIANCE
+Underlying Index 1520.85
+Nearest Strike price value 1520.0
+Calls LTP value 47.0
+Put LTP value 33.75
+Sum of Calls and Put values 80.75
+**********************************************
+*********************************************
+Symbol SAIL
+Underlying Index 45.8
+Nearest Strike price value 46.0
+Calls LTP value 1.95
+Put LTP value 1.85
+Sum of Calls and Put values 3.8000002
+**********************************************
+*********************************************
+Symbol SBIN
+Underlying Index 322.35
+Nearest Strike price value 320.0
+Calls LTP value 13.95
+Put LTP value 8.65
+Sum of Calls and Put values 22.599998
+**********************************************
+*********************************************
+Symbol SRF
+Underlying Index 3421.0
+Nearest Strike price value 3400.0
+Calls LTP value 112.35
+Put LTP value 69.4
+Sum of Calls and Put values 181.75
+**********************************************
+*********************************************
+Symbol SRTRANSFIN
+Underlying Index 1140.15
+Nearest Strike price value 1140.0
+Calls LTP value 44.0
+Put LTP value 39.5
+Sum of Calls and Put values 83.5
+**********************************************
+*********************************************
+Symbol SUNPHARMA
+Underlying Index 438.7
+Nearest Strike price value 440.0
+Calls LTP value 15.4
+Put LTP value 12.8
+Sum of Calls and Put values 28.2
+**********************************************
+*********************************************
+Symbol SUNTV
+Underlying Index 429.15
+Nearest Strike price value 430.0
+Calls LTP value 17.2
+Put LTP value 16.95
+Sum of Calls and Put values 34.15
+**********************************************
+*********************************************
+Symbol TATACHEM
+Underlying Index 661.0
+Nearest Strike price value 660.0
+Calls LTP value 17.1
+Put LTP value 14.8
+Sum of Calls and Put values 31.900002
+**********************************************
+*********************************************
+Symbol TATAGLOBAL
+Underlying Index 316.85
+Nearest Strike price value 315.0
+Calls LTP value 10.85
+Put LTP value 8.35
+Sum of Calls and Put values 19.2
+**********************************************
+*********************************************
+Symbol TATAMOTORS
+Underlying Index 187.25
+Nearest Strike price value 185.0
+Calls LTP value 10.45
+Put LTP value 6.7
+Sum of Calls and Put values 17.15
+**********************************************
+*********************************************
+Symbol TATAMTRDVR
+Underlying Index 76.75
+Nearest Strike price value 77.5
+Calls LTP value 2.95
+Put LTP value 4.25
+Sum of Calls and Put values 7.2
+**********************************************
+*********************************************
+Symbol TATAPOWER
+Underlying Index 56.8
+Nearest Strike price value 57.0
+Calls LTP value 2.0
+Put LTP value 2.0
+Sum of Calls and Put values 4.0
+**********************************************
+*********************************************
+Symbol TATASTEEL
+Underlying Index 475.55
+Nearest Strike price value 480.0
+Calls LTP value 16.05
+Put LTP value 17.7
+Sum of Calls and Put values 33.75
+**********************************************
+*********************************************
+Symbol TCS
+Underlying Index 2206.7
+Nearest Strike price value 2200.0
+Calls LTP value 72.6
+Put LTP value 66.6
+Sum of Calls and Put values 139.2
+**********************************************
+*********************************************
+Symbol TECHM
+Underlying Index 775.55
+Nearest Strike price value 780.0
+Calls LTP value 19.5
+Put LTP value 18.6
+Sum of Calls and Put values 38.1
+**********************************************
+*********************************************
+Symbol TITAN
+Underlying Index 1163.9
+Nearest Strike price value 1160.0
+Calls LTP value 37.5
+Put LTP value 28.3
+Sum of Calls and Put values 65.8
+**********************************************
+*********************************************
+Symbol TVSMOTOR
+Underlying Index 441.05
+Nearest Strike price value 440.0
+Calls LTP value 14.15
+Put LTP value 17.3
+Sum of Calls and Put values 31.449999
+**********************************************
+*********************************************
+Symbol UBL
+Underlying Index 1286.15
+Nearest Strike price value 1280.0
+Calls LTP value 34.7
+Put LTP value 32.8
+Sum of Calls and Put values 67.5
+**********************************************
+*********************************************
+Symbol UJJIVAN
+Underlying Index 339.45
+Nearest Strike price value 340.0
+Calls LTP value 13.55
+Put LTP value 10.8
+Sum of Calls and Put values 24.35
+**********************************************
+*********************************************
+Symbol ULTRACEMCO
+Underlying Index 4177.55
+Nearest Strike price value 4200.0
+Calls LTP value 105.05
+Put LTP value 120.0
+Sum of Calls and Put values 225.05
+**********************************************
+*********************************************
+Symbol UPL
+Underlying Index 582.8
+Nearest Strike price value 580.0
+Calls LTP value 19.75
+Put LTP value 16.0
+Sum of Calls and Put values 35.75
+**********************************************
+*********************************************
+Symbol VEDL
+Underlying Index 155.1
+Nearest Strike price value 155.0
+Calls LTP value 6.85
+Put LTP value 5.15
+Sum of Calls and Put values 12.0
+**********************************************
+*********************************************
+Symbol VOLTAS
+Underlying Index 656.1
+Nearest Strike price value 660.0
+Calls LTP value 18.6
+Put LTP value 17.05
+Sum of Calls and Put values 35.65
+**********************************************
+*********************************************
+Symbol WIPRO
+Underlying Index 252.9
+Nearest Strike price value 252.5
+Calls LTP value 7.6
+Put LTP value 7.55
+Sum of Calls and Put values 15.15
+**********************************************
+*********************************************
+Symbol YESBANK
+Underlying Index 45.85
+Nearest Strike price value 45.0
+Calls LTP value 4.35
+Put LTP value 4.95
+Sum of Calls and Put values 9.299999
+**********************************************
+*********************************************
+Symbol ZEEL
+Underlying Index 265.5
+Nearest Strike price value 270.0
+Calls LTP value 14.8
+Put LTP value 18.3
+Sum of Calls and Put values 33.1
+**********************************************
