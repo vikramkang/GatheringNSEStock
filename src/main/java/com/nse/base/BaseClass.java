@@ -3,10 +3,12 @@ package com.nse.base;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
+
 import java.nio.file.Path;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Properties;
+
 
 
 
@@ -16,9 +18,7 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
 import org.openqa.selenium.firefox.FirefoxDriver;
-
 import org.openqa.selenium.ie.InternetExplorerDriver;
 
 
@@ -27,13 +27,16 @@ public class BaseClass {
 	
 	public static WebDriver driver;
 	public static Properties prop;
+	public static String localDir;
 	
 	
 	public BaseClass(){
 		prop =new Properties();
 		
 		try {
-		FileInputStream ip =new FileInputStream("C:\\Global ERP classes\\Project\\GatheringNSEStock\\src\\main\\java\\com\\nse\\config\\config.properties");
+			
+			localDir = System.getProperty("user.dir");
+			FileInputStream ip =new FileInputStream(localDir+"\\src\\main\\java\\com\\nse\\config\\config.properties");
 			prop.load(ip);
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
@@ -45,17 +48,17 @@ public class BaseClass {
 		String browser=prop.getProperty("browser");
 		if (browser.equalsIgnoreCase("chrome")) {
 			
-			System.setProperty("webdriver.chrome.driver", "C://Tools//chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", localDir+"\\BrowserTools\\chromedriver.exe");
 			System.setProperty("webdriver.chrome.silentOutput", "true");
 			
 			driver =new ChromeDriver();}
 		
 		else if (browser.equalsIgnoreCase("firefox")) {
-			System.setProperty("webdriver.gecko.driver", "C://Tools//geckodriver.exe");
+			System.setProperty("webdriver.gecko.driver", localDir+"\\BrowserTools\\geckodriver.exe");
 			driver =new FirefoxDriver();
 		}
 			
-		else {System.setProperty("webdriver.ie.driver", "C://Tools//iedriver.exe");
+		else {System.setProperty("webdriver.ie.driver",localDir+"\\BrowserTools\\iedriver.exe");
 			driver =new InternetExplorerDriver();
 		}
 		driver.manage().window().maximize(); 

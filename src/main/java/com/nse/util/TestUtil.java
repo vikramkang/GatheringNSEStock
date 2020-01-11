@@ -1,19 +1,19 @@
 package com.nse.util;
 
 
-import java.io.BufferedReader;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.nio.file.Path;
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
 
-import java.util.Properties;
+
 
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.apache.poi.ss.usermodel.Workbook;
@@ -34,7 +34,8 @@ public class TestUtil extends BaseClass{
 		
 		
 		try {
-			FileInputStream file=new FileInputStream(prop.getProperty("DataFileLocation"));
+			
+			FileInputStream file=new FileInputStream(localDir+prop.getProperty("DataFileLocation"));
 			book=WorkbookFactory.create(file);
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
@@ -59,9 +60,7 @@ public class TestUtil extends BaseClass{
 	public  void writeTextFile(String output) throws IOException{
 		
 		String idForTxtFile = new SimpleDateFormat("dd_MM_yy_HH").format(new Date());
-		
-		file_csv = new File(System.getProperty("user.dir") + "/OutputFile/"+idForTxtFile+".csv");
-				
+		file_csv = new File(System.getProperty("user.dir") + "/OutputFile/"+idForTxtFile+".csv");	
 		fw =new FileWriter(file_csv, true);
 		String lineSeparator = System.getProperty("line.separator");
 		FileReader fr = new FileReader(file_csv); 
@@ -72,10 +71,8 @@ public class TestUtil extends BaseClass{
 					+ "Sum of Call and Put LTP, % of Strike Price");
 			fw.append(lineSeparator);
 		}
-				  //if you want to write the line separator ("\n) as they are in the txt you should use the following Code:
-		
-
-		    fw.append(output);
+	//if you want to write the line separator ("\n) as they are in the txt you should use the following Code:
+			fw.append(output);
 		    fw.append(lineSeparator);
 		  
 		}
